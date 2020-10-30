@@ -18,7 +18,8 @@ https://aws.amazon.com/certification/certification-prep/?nc1=h_ls
 
 - 看AWS白皮书（这个要比较认真的看，特别是考试热点的service，但是不用专研的很深，因为这是最基础的资格，出题难度不大，但是范围广。）
 
-- 然后就是练习，https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/，这6套卷子狠狠的刷一下，刷到每套都90%以上就可以去考试了。（udemy经常会打折，大概1600日元左右能买到。）
+- 然后就是练习，https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/
+，这6套卷子狠狠的刷一下，刷到每套都90%以上就可以去考试了。（udemy经常会打折，大概1600日元左右能买到。）
 
   卷子的讲解也很详细，如果有兴趣的话，还可以回头去参考https://docs.aws.amazon.com/
 
